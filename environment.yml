@@ -6,5 +6,6 @@ channels:
 dependencies:
   - python
   - numpy
+  - scipy
   - pandas
   - bokeh

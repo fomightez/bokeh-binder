@@ -1,6 +1,6 @@
 # bokeh-binder
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/bokeh-binder/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/bokeh-binder/master?filepath=index.ipynb)
 
 bokeh plots working in active Jupyter environment served by Binder service.
 
